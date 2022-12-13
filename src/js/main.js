@@ -188,7 +188,7 @@
     $(window)
         .on('load', function() { //Load
             // Animation on Page Loading
-            $(".preloader").fadeOut( 50, "linear" );
+            $(".preloader").fadeOut( 0, "linear" );
         })
         .on('hashchange', function(event) {
             if(location.hash) {
