@@ -1701,11 +1701,11 @@ h3.comment-reply-title:before {
     height: auto;
     display: block;
     position: absolute;
-    top: -18px;
-    bottom: -18px;
+    top: -6px;
+    bottom: -6px;
     width: auto;
-    left: -18px;
-    right: -18px;
+    left: -6px;
+    right: -6px;
 }
 
 .home-buttons {
